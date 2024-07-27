@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/presentogenius.git/static/css/main.68d6d75a.css",
-    "main.js": "/presentogenius.git/static/js/main.847a4cff.js",
-    "static/js/453.0fe5dd10.chunk.js": "/presentogenius.git/static/js/453.0fe5dd10.chunk.js",
-    "index.html": "/presentogenius.git/index.html",
-    "main.68d6d75a.css.map": "/presentogenius.git/static/css/main.68d6d75a.css.map",
-    "main.847a4cff.js.map": "/presentogenius.git/static/js/main.847a4cff.js.map",
-    "453.0fe5dd10.chunk.js.map": "/presentogenius.git/static/js/453.0fe5dd10.chunk.js.map"
+    "main.css": "/presentogenius/static/css/main.68d6d75a.css",
+    "main.js": "/presentogenius/static/js/main.9e0ddf87.js",
+    "static/js/453.0fe5dd10.chunk.js": "/presentogenius/static/js/453.0fe5dd10.chunk.js",
+    "index.html": "/presentogenius/index.html",
+    "main.68d6d75a.css.map": "/presentogenius/static/css/main.68d6d75a.css.map",
+    "main.9e0ddf87.js.map": "/presentogenius/static/js/main.9e0ddf87.js.map",
+    "453.0fe5dd10.chunk.js.map": "/presentogenius/static/js/453.0fe5dd10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68d6d75a.css",
-    "static/js/main.847a4cff.js"
+    "static/js/main.9e0ddf87.js"
   ]
 }
